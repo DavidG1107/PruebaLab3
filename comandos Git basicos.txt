@@ -1,0 +1,12 @@
+para enlazar repositorio
+
+git init > para iniciar
+
+git remote add origin https://github.com/DavidG1107/PruebaLab4.git > vincular carpeta con repositorio Github
+
+para ver repositorio y cambios
+
+git status > para ver el estado del repositorio
+git add . > para cargar el archivo de la carpeta del repositorio
+git commit -m "Texto que sea" >es para nombrar la subida del archivo
+git push > para subir el archivo
